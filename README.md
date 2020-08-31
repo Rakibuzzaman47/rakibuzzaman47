@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at a online news portal called Ajker Patrika.
+- 🔭 I’m currently working part time at a online news portal called Ajker Patrika.
 - 🌱 I’m currently learning JavaScript & Networking.
 <!-- 👯 I’m looking to collaborate on ...
 **- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Linux, Web Servers, Website Speed Optimization.
+- 💬 Ask me about HTML5, CSS3, Bootstrap, Ubuntu/Kali Linux, Linux Web/Multimedia Servers, Website Speed Optimization, Basic Security Practices etc.
 - 📫 How to reach me: Shoot an email to rakibuzzaman47@gmail.com.
 - 😄 Pronouns: The Watcher 😎
 - ⚡ Fun fact: I'm a student of Sufism & learning Ruqyah 👻
