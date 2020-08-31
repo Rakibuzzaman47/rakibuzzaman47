@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working at a online news portal called Ajker Patrika.
+- 🌱 I’m currently learning JavaScript & Networking.
+<!-- 👯 I’m looking to collaborate on ...
+**- 🤔 I’m looking for help with ... -->
+- 💬 Ask me about Linux, Web Servers, Website Speed Optimization.
 - 📫 How to reach me: Shoot an email to rakibuzzaman47@gmail.com.
 - 😄 Pronouns: The Watcher 😎
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: I'm a student of Sufism & learning Ruqyah 👻
 <!--
 **Rakibuzzaman47/rakibuzzaman47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
