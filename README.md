@@ -7,7 +7,7 @@
 - 💬 Ask me about HTML5, CSS3, Bootstrap, Linux, Linux Web/Multimedia Servers, Website Speed Optimization, Basic Security Practices etc.
 - 📫 How to reach me: Shoot an email to rakibuzzaman47@gmail.com.
 - 😄 Pronouns: Watcher 😎
-- ⚡ Fun fact: I'm a student of Sufism & learning Ruqyah 👻
+- ⚡ Fun fact: I'm a student of Sufism & Ruqyah 👻
 <!--
 **Rakibuzzaman47/rakibuzzaman47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
