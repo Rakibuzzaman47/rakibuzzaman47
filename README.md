@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working part time at a online news portal called Ajker Patrika.
+- 🔭 I’m currently working full time at a startup and also doing freelancing.
 - 🌱 I’m currently learning JavaScript & Networking.
 <!-- 👯 I’m looking to collaborate on ...
 **- 🤔 I’m looking for help with ... -->
